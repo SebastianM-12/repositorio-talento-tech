@@ -195,10 +195,19 @@ footer{
         grid-template-areas: 
         "header"
         "sidebar"
-        "content_1"
-        "content_2"
-        "content_3"
-        "footer";
-        
+        "footer"
+        "portfolio";
+        grid-template-rows: repeat(4,auto);
+        .portfolio{
+            grid-template-columns: 1fr;
+            grid-template-areas: 
+            "item1"
+            "item2"
+            "item3"
+            "item4"
+            "item5";
+            padding-bottom: 90px;
+        }
+
     }
 }
