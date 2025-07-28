@@ -1,0 +1,39 @@
+body{
+    background-color: #eee;
+    font-family: Arial, sans-serif;
+    columns: #333;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.container {
+    width: 40%;
+    margin: 20px auto;
+
+}
+
+#number_1, #number_2 {
+    padding: 20px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+#addButton {
+    padding: 10px 15px;
+    width: 25%;
+    background-color:#448;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+
+#resultText {
+
+    margin-top: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+
+}
