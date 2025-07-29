@@ -1,0 +1,572 @@
+[
+  {
+    "region": "Colombia",
+    "anno": 1965,
+    "renovables": 11.788209
+  },
+  {
+    "region": "Colombia",
+    "anno": 1966,
+    "renovables": 12.017394
+  },
+  {
+    "region": "Colombia",
+    "anno": 1967,
+    "renovables": 12.580107
+  },
+  {
+    "region": "Colombia",
+    "anno": 1968,
+    "renovables": 13.300462
+  },
+  {
+    "region": "Colombia",
+    "anno": 1969,
+    "renovables": 14.526139
+  },
+  {
+    "region": "Colombia",
+    "anno": 1970,
+    "renovables": 14.817516
+  },
+  {
+    "region": "Colombia",
+    "anno": 1971,
+    "renovables": 15.987799
+  },
+  {
+    "region": "Colombia",
+    "anno": 1972,
+    "renovables": 15.767954
+  },
+  {
+    "region": "Colombia",
+    "anno": 1973,
+    "renovables": 17.170427
+  },
+  {
+    "region": "Colombia",
+    "anno": 1974,
+    "renovables": 17.39551
+  },
+  {
+    "region": "Colombia",
+    "anno": 1975,
+    "renovables": 19.235607
+  },
+  {
+    "region": "Colombia",
+    "anno": 1976,
+    "renovables": 19.407125
+  },
+  {
+    "region": "Colombia",
+    "anno": 1977,
+    "renovables": 19.36701
+  },
+  {
+    "region": "Colombia",
+    "anno": 1978,
+    "renovables": 20.862885
+  },
+  {
+    "region": "Colombia",
+    "anno": 1979,
+    "renovables": 21.545105
+  },
+  {
+    "region": "Colombia",
+    "anno": 1980,
+    "renovables": 23.044971
+  },
+  {
+    "region": "Colombia",
+    "anno": 1981,
+    "renovables": 22.218885
+  },
+  {
+    "region": "Colombia",
+    "anno": 1982,
+    "renovables": 22.697723
+  },
+  {
+    "region": "Colombia",
+    "anno": 1983,
+    "renovables": 21.790188
+  },
+  {
+    "region": "Colombia",
+    "anno": 1984,
+    "renovables": 23.639833
+  },
+  {
+    "region": "Colombia",
+    "anno": 1985,
+    "renovables": 24.441961
+  },
+  {
+    "region": "Colombia",
+    "anno": 1986,
+    "renovables": 27.276325
+  },
+  {
+    "region": "Colombia",
+    "anno": 1987,
+    "renovables": 27.310854
+  },
+  {
+    "region": "Colombia",
+    "anno": 1988,
+    "renovables": 28.748077
+  },
+  {
+    "region": "Colombia",
+    "anno": 1989,
+    "renovables": 29.793999
+  },
+  {
+    "region": "Colombia",
+    "anno": 1990,
+    "renovables": 32.640934
+  },
+  {
+    "region": "Colombia",
+    "anno": 1991,
+    "renovables": 31.6998
+  },
+  {
+    "region": "Colombia",
+    "anno": 1992,
+    "renovables": 24.605455
+  },
+  {
+    "region": "Colombia",
+    "anno": 1993,
+    "renovables": 27.847397
+  },
+  {
+    "region": "Colombia",
+    "anno": 1994,
+    "renovables": 29.809082
+  },
+  {
+    "region": "Colombia",
+    "anno": 1995,
+    "renovables": 29.331577
+  },
+  {
+    "region": "Colombia",
+    "anno": 1996,
+    "renovables": 31.475914
+  },
+  {
+    "region": "Colombia",
+    "anno": 1997,
+    "renovables": 27.334064
+  },
+  {
+    "region": "Colombia",
+    "anno": 1998,
+    "renovables": 26.691463
+  },
+  {
+    "region": "Colombia",
+    "anno": 1999,
+    "renovables": 31.378248
+  },
+  {
+    "region": "Colombia",
+    "anno": 2000,
+    "renovables": 29.556067
+  },
+  {
+    "region": "Colombia",
+    "anno": 2001,
+    "renovables": 30.604485
+  },
+  {
+    "region": "Colombia",
+    "anno": 2002,
+    "renovables": 32.692554
+  },
+  {
+    "region": "Colombia",
+    "anno": 2003,
+    "renovables": 33.389133
+  },
+  {
+    "region": "Colombia",
+    "anno": 2004,
+    "renovables": 34.505455
+  },
+  {
+    "region": "Colombia",
+    "anno": 2005,
+    "renovables": 35.05353
+  },
+  {
+    "region": "Colombia",
+    "anno": 2006,
+    "renovables": 34.14272
+  },
+  {
+    "region": "Colombia",
+    "anno": 2007,
+    "renovables": 35.182762
+  },
+  {
+    "region": "Colombia",
+    "anno": 2008,
+    "renovables": 33.94141
+  },
+  {
+    "region": "Colombia",
+    "anno": 2009,
+    "renovables": 31.377745
+  },
+  {
+    "region": "Colombia",
+    "anno": 2010,
+    "renovables": 30.092037
+  },
+  {
+    "region": "Colombia",
+    "anno": 2011,
+    "renovables": 34.515675
+  },
+  {
+    "region": "Colombia",
+    "anno": 2012,
+    "renovables": 31.746134
+  },
+  {
+    "region": "Colombia",
+    "anno": 2013,
+    "renovables": 29.385107
+  },
+  {
+    "region": "Colombia",
+    "anno": 2014,
+    "renovables": 28.364685
+  },
+  {
+    "region": "Colombia",
+    "anno": 2015,
+    "renovables": 28.021618
+  },
+  {
+    "region": "Colombia",
+    "anno": 2016,
+    "renovables": 27.708813
+  },
+  {
+    "region": "Colombia",
+    "anno": 2017,
+    "renovables": 32.82906
+  },
+  {
+    "region": "Colombia",
+    "anno": 2018,
+    "renovables": 31.99955
+  },
+  {
+    "region": "Colombia",
+    "anno": 2019,
+    "renovables": 29.890343
+  },
+  {
+    "region": "Colombia",
+    "anno": 2020,
+    "renovables": 30.772787
+  },
+  {
+    "region": "Colombia",
+    "anno": 2021,
+    "renovables": 33.02041
+  },
+  {
+    "region": "South America",
+    "anno": 1965,
+    "renovables": 11.023402
+  },
+  {
+    "region": "South America",
+    "anno": 1966,
+    "renovables": 11.543426
+  },
+  {
+    "region": "South America",
+    "anno": 1967,
+    "renovables": 11.78056
+  },
+  {
+    "region": "South America",
+    "anno": 1968,
+    "renovables": 11.697652
+  },
+  {
+    "region": "South America",
+    "anno": 1969,
+    "renovables": 12.044194
+  },
+  {
+    "region": "South America",
+    "anno": 1970,
+    "renovables": 13.621983
+  },
+  {
+    "region": "South America",
+    "anno": 1971,
+    "renovables": 14.387364
+  },
+  {
+    "region": "South America",
+    "anno": 1972,
+    "renovables": 15.238756
+  },
+  {
+    "region": "South America",
+    "anno": 1973,
+    "renovables": 15.491369
+  },
+  {
+    "region": "South America",
+    "anno": 1974,
+    "renovables": 16.686647
+  },
+  {
+    "region": "South America",
+    "anno": 1975,
+    "renovables": 17.77702
+  },
+  {
+    "region": "South America",
+    "anno": 1976,
+    "renovables": 18.434004
+  },
+  {
+    "region": "South America",
+    "anno": 1977,
+    "renovables": 19.282972
+  },
+  {
+    "region": "South America",
+    "anno": 1978,
+    "renovables": 20.008823
+  },
+  {
+    "region": "South America",
+    "anno": 1979,
+    "renovables": 21.088923
+  },
+  {
+    "region": "South America",
+    "anno": 1980,
+    "renovables": 22.763828
+  },
+  {
+    "region": "South America",
+    "anno": 1981,
+    "renovables": 23.091265
+  },
+  {
+    "region": "South America",
+    "anno": 1982,
+    "renovables": 24.36981
+  },
+  {
+    "region": "South America",
+    "anno": 1983,
+    "renovables": 25.906075
+  },
+  {
+    "region": "South America",
+    "anno": 1984,
+    "renovables": 27.275818
+  },
+  {
+    "region": "South America",
+    "anno": 1985,
+    "renovables": 28.324965
+  },
+  {
+    "region": "South America",
+    "anno": 1986,
+    "renovables": 28.488626
+  },
+  {
+    "region": "South America",
+    "anno": 1987,
+    "renovables": 29.28631
+  },
+  {
+    "region": "South America",
+    "anno": 1988,
+    "renovables": 29.289913
+  },
+  {
+    "region": "South America",
+    "anno": 1989,
+    "renovables": 29.606066
+  },
+  {
+    "region": "South America", 
+    "anno": 1990,
+    "renovables": 30.777649
+  },
+  {
+    "region": "South America",
+    "anno": 1991,
+    "renovables": 31.83688
+  },
+  {
+    "region": "South America",
+    "anno": 1992,
+    "renovables": 30.95373
+  },
+  {
+    "region": "South America",
+    "anno": 1993,
+    "renovables": 31.998835
+  },
+  {
+    "region": "South America",
+    "anno": 1994,
+    "renovables": 31.95983
+  },
+  {
+    "region": "South America",
+    "anno": 1995,
+    "renovables": 31.717999
+  },
+  {
+    "region": "South America",
+    "anno": 1996,
+    "renovables": 31.687614
+  },
+  {
+    "region": "South America",
+    "anno": 1997,
+    "renovables": 31.808338
+  },
+  {
+    "region": "South America",
+    "anno": 1998,
+    "renovables": 31.411379
+  },
+  {
+    "region": "South America",
+    "anno": 1999,
+    "renovables": 31.232824
+  },
+  {
+    "region": "South America",
+    "anno": 2000,
+    "renovables": 32.47872
+  },
+  {
+    "region": "South America",
+    "anno": 2001,
+    "renovables": 30.829071
+  },
+  {
+    "region": "South America",
+    "anno": 2002,
+    "renovables": 31.812138
+  },
+  {
+    "region": "South America",
+    "anno": 2003,
+    "renovables": 32.69813
+  },
+  {
+    "region": "South America",
+    "anno": 2004,
+    "renovables": 31.918701
+  },
+  {
+    "region": "South America",
+    "anno": 2005,
+    "renovables": 32.54806
+  },
+  {
+    "region": "South America",
+    "anno": 2006,
+    "renovables": 32.51109
+  },
+  {
+    "region": "South America",
+    "anno": 2007,
+    "renovables": 32.020576
+  },
+  {
+    "region": "South America",
+    "anno": 2008,
+    "renovables": 31.325287
+  },
+  {
+    "region": "South America",
+    "anno": 2009,
+    "renovables": 32.41624
+  },
+  {
+    "region": "South America",
+    "anno": 2010,
+    "renovables": 30.95347
+  },
+  {
+    "region": "South America",
+    "anno": 2011,
+    "renovables": 31.315365
+  },
+  {
+    "region": "South America",
+    "anno": 2012,
+    "renovables": 29.988754
+  },
+  {
+    "region": "South America",
+    "anno": 2013,
+    "renovables": 28.540737
+  },
+  {
+    "region": "South America",
+    "anno": 2014,
+    "renovables": 27.958807
+  },
+  {
+    "region": "South America",
+    "anno": 2015,
+    "renovables": 28.051346
+  },
+  {
+    "region": "South America",
+    "anno": 2016,
+    "renovables": 29.587042
+  },
+  {
+    "region": "South America",
+    "anno": 2017,
+    "renovables": 30.41578
+  },
+  {
+    "region": "South America",
+    "anno": 2018,
+    "renovables": 31.617079
+  },
+  {
+    "region": "South America",
+    "anno": 2019,
+    "renovables": 32.166042
+  },
+  {
+    "region": "South America",
+    "anno": 2020,
+    "renovables": 34.7553
+  },
+  {
+    "region": "South America",
+    "anno": 2021,
+    "renovables": 32.356785
+  }
+]

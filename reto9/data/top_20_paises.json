@@ -1,0 +1,82 @@
+[
+  {
+    "pais": "Austria",
+    "promedio_renovables": 29.4623735964912
+  },
+  {
+    "pais": "Brazil",
+    "promedio_renovables": 39.2128126315789
+  },
+  {
+    "pais": "Canada",
+    "promedio_renovables": 28.4101169473684
+  },
+  {
+    "pais": "Chile",
+    "promedio_renovables": 21.689584245614
+  },
+  {
+    "pais": "Colombia",
+    "promedio_renovables": 26.1111943684211
+  },
+  {
+    "pais": "Croatia",
+    "promedio_renovables": 20.009952859375
+  },
+  {
+    "pais": "Ecuador",
+    "promedio_renovables": 16.0736929947368
+  },
+  {
+    "pais": "Finland",
+    "promedio_renovables": 18.8259847719298
+  },
+  {
+    "pais": "Iceland",
+    "promedio_renovables": 62.0636996842105
+  },
+  {
+    "pais": "Latvia",
+    "promedio_renovables": 18.8581268918919
+  },
+  {
+    "pais": "New Zealand",
+    "promedio_renovables": 39.5116522280702
+  },
+  {
+    "pais": "Norway",
+    "promedio_renovables": 68.0191889298246
+  },
+  {
+    "pais": "Peru",
+    "promedio_renovables": 25.0767566491228
+  },
+  {
+    "pais": "Portugal",
+    "promedio_renovables": 20.0219585070175
+  },
+  {
+    "pais": "Slovenia",
+    "promedio_renovables": 14.640907921875
+  },
+  {
+    "pais": "Sri Lanka",
+    "promedio_renovables": 19.2123030350877
+  },
+  {
+    "pais": "Sweden",
+    "promedio_renovables": 33.9708606842105
+  },
+  {
+    "pais": "Switzerland",
+    "promedio_renovables": 31.6748546842105
+  },
+  {
+    "pais": "Venezuela",
+    "promedio_renovables": 16.698627622807
+  },
+  {
+    "pais": "Vietnam",
+    "promedio_renovables": 13.5321114105263
+  }
+]

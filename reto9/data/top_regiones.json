@@ -1,0 +1,58 @@
+[
+  {
+    "region": "Africa",
+    "promedio_renovables": 7.44071442105263
+  },
+  {
+    "region": "Asia Pacific",
+    "promedio_renovables": 6.75976637192982
+  },
+  {
+    "region": "Central America",
+    "promedio_renovables": 22.5849048245614
+  },
+  {
+    "region": "CIS",
+    "promedio_renovables": 5.25681439122807
+  },
+  {
+    "region": "Eastern Africa",
+    "promedio_renovables": 28.6334221578947
+  },
+  {
+    "region": "Europe",
+    "promedio_renovables": 9.05690759298245
+  },
+  {
+    "region": "European Union",
+    "promedio_renovables": 8.00005359824561
+  },
+  {
+    "region": "Middle Africa",
+    "promedio_renovables": 30.2284783859649
+  },
+  {
+    "region": "Middle East",
+    "promedio_renovables": 1.22883773
+  },
+  {
+    "region": "Non-OECD",
+    "promedio_renovables": 7.57626111929825
+  },
+  {
+    "region": "North America",
+    "promedio_renovables": 7.95625002105263
+  },
+  {
+    "region": "OECD",
+    "promedio_renovables": 8.23683703508772
+  },
+  {
+    "region": "South and Central America",
+    "promedio_renovables": 25.149845
+  },
+  {
+    "region": "Western Africa",
+    "promedio_renovables": 11.7826677561404
+  }
+]
